@@ -1,0 +1,5 @@
+hoge# >> [finish]1-9
+echo hoge >> [finish]1-9
+
+echo hoge#
+hoge
