@@ -1,2 +1,1 @@
-hoge
-test
+webcampの練習用
